@@ -1,0 +1,11 @@
+catboost
+lightgbm
+xgboost
+optuna
+pandas
+numpy
+scikit-learn
+python-dotenv
+requests
+cloudpickle
+psycopg2-binary
